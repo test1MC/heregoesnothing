@@ -22,6 +22,10 @@
       Link="/Destinations/Central.fldes"
       Publish="true"
       IsResource="true" />
+    <Destination
+      Link="/Project/Destinations/Source Control.fldes"
+      Publish="true"
+      IsResource="false" />
   </Destinations>
   <Elasticsearch
     Guid="93c0ca6f-c857-422b-a94a-9fead0b325d7" />
