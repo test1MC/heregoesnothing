@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="" Type="WebHelp" Destinations="" GlossaryTermConversion="marked" ConditionTagExpression="exclude[Default.PrintOnly or Default.ScreenOnly]">
+    <Destinations>&#160;</Destinations>
+</CatapultTarget>

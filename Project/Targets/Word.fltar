@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="MsWord"
+  Destinations=""
+  GlossaryTermConversion="marked">
+  <Destinations>
+    <Destination
+      Link="/Destinations/Central.fldes"
+      Publish="true"
+      IsResource="true" />
+  </Destinations>
+</CatapultTarget>

@@ -1,0 +1,3 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination Version="1" Comment="This is my publish destination" Host="win2k3test" User="MyAccountId" Password="" Directory="[change me]" Port="22" ViewUrl="http://www.madcapsoftware.com/" Type="sftp" SftpServerValidation="validation-none" SftpAuthentication="authentication-password">
+</CatapultDestination>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment=""
+  Type="WebHelp"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  ConditionTagExpression="exclude[Default.PrintOnly or Default.ScreenOnly] ">
+  <Destinations>
+    <Destination
+      Link="/Destinations/Central.fldes"
+      Publish="true"
+      IsResource="true" />
+  </Destinations>
+</CatapultTarget>

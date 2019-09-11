@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="New Target" Type="WebHelp2" Destinations="" ShowMadCapBacklink="true" GlossaryTermConversion="marked" CentralLinkIds="" TargetLanguage="en-us,ar_../../Publish to Central test Projects/!JavaScriptFileTesting_ARABIC/!JavaScriptFileTesting_ARABIC.flprj,es_../../Publish to Central test Projects/!JavaScriptFileTesting_SPANISH/!JavaScriptFileTesting_SPANISH.flprj">
+    <PrintedOutput CollapseMargins="true" GenerateTOCProxy="true" GenerateIndexProxy="true" GenerateGlossaryProxy="true" OutputFormat="docx" />
+</CatapultTarget>

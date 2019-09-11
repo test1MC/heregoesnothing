@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="WebHelp2"
+  Destinations=""
+  ShowMadCapBacklink="true"
+  GlossaryTermConversion="marked"
+  CentralLinkIds=""
+  TargetLanguage="en-us,ar_../../!JavaScriptFileTesting_ARABIC/!JavaScriptFileTesting_ARABIC.flprj,es_../../!JavaScriptFileTesting_SPANISH/!JavaScriptFileTesting_SPANISH.flprj"
+  Skin="/Project/Skins/TopNav.flskn"
+  TopicToolbarSkin="/Project/Skins/HTML5 Topic Toolbar.flskn"
+  MasterPage="/Content/Resources/MasterPages/MasterPage.flmsp">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true"
+    OutputFormat="docx" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/File System.fldes"
+      Publish="true"
+      IsResource="false" />
+  </Destinations>
+</CatapultTarget>
